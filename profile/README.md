@@ -1,4 +1,4 @@
-[![Open Longevity](./logo.png)](https://openlongevity.org/)
+[<img src="https://github.com/Open-Longevity-AGCT/.github/blob/main/profile/logo.png" width="150px">](https://openlongevity.org/)
 
 # Hey there! 👋
 
